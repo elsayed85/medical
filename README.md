@@ -16,7 +16,7 @@
 * profile for :
   * 
   * admin
-  * can add any type of user [patient , foctor , clinic , hospital ]
+  * * can add any type of user [patient , foctor , clinic , hospital ]
   * every patient and show the staticts of the patient
   * every doctor and the clinics belong to him
   * every clinic and hospital and show all information and location in google map
