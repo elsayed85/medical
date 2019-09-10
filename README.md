@@ -1,9 +1,10 @@
 # medical website
+
 ## users :
 * patient or any user
 * doctor
 * admin
- 
+
 * patient can search for medcine and get the location of the clinic that have this medcine 
 * patient can get location of the nearest doctor and clinic
 * patient can make a review for clinic or doctor and show top 5 clinics and doctors in the home page for advertisment\
