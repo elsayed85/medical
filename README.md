@@ -6,7 +6,7 @@
 * clinics
 * admin
 
-## design
+## Technology
 * web app
 * api for developers
 * mobile app [ android , ios ] : mobile app to help patients access their health data from devices
@@ -18,6 +18,7 @@
   * patient can make a review for clinic or doctor and show top 5 clinics and doctors in the home page for advertisment
   * patient can make appointment with doctors
   * patient can add Bookmarks
+  * patient can see his health data, treatment progress , Diagnosis data
 
 * doctor
   * doctor can run tests of dna file and get results and save it in his profile
@@ -39,7 +40,10 @@
   information as : name , address , profile image , country , Rate , About Me section  , patient reviews
   ```
 * resourses for help patients :
-  Provide extensive health knowledge , Track and understand patients’ points of interest better and offer more relevant content personalization
+  * Provide extensive health knowledge , Track and understand patients’ points of interest better and offer more relevant content personalization
+  * Information about medications and diseases from the Wikipedia website
+* Quizzes. Create health tests in a cute, visualized way by including gamification in the learning process.
+
 
 
  
