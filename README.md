@@ -1,9 +1,14 @@
-# medical website
+# healthcare website
 
 ## users :
 * patient or any user
 * doctor
 * admin
+
+## design
+* web app
+* mobile app [ android , ios ] : mobile app to help patients access their health data from devices
+
 ## some ideas
 * patient can search for medcine and get the location of the clinic that have this medcine 
 * patient can get location of the nearest doctor and clinic
@@ -17,8 +22,9 @@
   *
   * admin :
   * every patient and show the staticts of the patient
-  * every doctor and the clinics belong to him
+  * every doctor and the clinics belong to him and all information about him
   * every clinic and hospital and show all information and location in google map
+* hhhhhhhhhhhhhhhhhhh
  
 
 
