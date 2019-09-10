@@ -19,13 +19,17 @@
   * doctor can run tests of dna file and get results and save it in his profile
   * doctor can add clinic or hospital 
   * clinic admin can add medcines and contact with patient using website chat
-  * doctor can add medical posts with another doctor in a socail website for doctors only
+  * doctor can add medical posts with another doctor in a social website for doctors only
   
 * profile for :
   * website administrator
   * every patient and show the staticts of the patient
   * every doctor and the clinics belong to him and all information about him
   * every clinic and hospital and show all information and location in google map
+  ```
+  information as : name , address , profile image , country , Rate , About Me section  , patient reviews ,
+  
+  ```
  
 
 
