@@ -4,7 +4,7 @@
 * patient or any user
 * doctor
 * admin
-# some ideas
+## some ideas
 * patient can search for medcine and get the location of the clinic that have this medcine 
 * patient can get location of the nearest doctor and clinic
 * patient can make a review for clinic or doctor and show top 5 clinics and doctors in the home page for advertisment\
@@ -14,10 +14,11 @@
   * * clinic admin can add medcines
 * admin control all functions of the website
 * profile for :
-  * * admin for contact for any problem
+  * * admin
+  ** can add any type of user [patient , foctor , clinic , hospital ]
   * * every patient and show the staticts of the patient
   * * every doctor and the clinics belong to him
-  * * every clinic and show all information and location in google map
+  * * every clinic and hospital and show all information and location in google map
  
 
 
