@@ -14,9 +14,7 @@
   * * clinic admin can add medcines
 * admin control all functions of the website
 * profile for :
-  * 
-  * admin : *
-  * can add any type of user [patient , foctor , clinic , hospital ]
+  ** admin :
   * every patient and show the staticts of the patient
   * every doctor and the clinics belong to him
   * every clinic and hospital and show all information and location in google map
